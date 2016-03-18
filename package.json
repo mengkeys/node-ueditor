@@ -1,0 +1,30 @@
+{
+  "name": "node-ueditor",
+  "version": "1.0.0",
+  "description": "baidu ueditor sdk for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengkeys/node-ueditor.git"
+  },
+  "keywords": [
+    "node.js",
+    "ueditor"
+  ],
+  "author": {
+    "name": "mengkeys",
+    "email": "mengkeys@hotmail.com",
+    "homepage": "www.mengkeys.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mengkeys/node-ueditor/issues"
+  },
+  "homepage": "https://github.com/mengkeys/node-ueditor#readme",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
